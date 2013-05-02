@@ -20,7 +20,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1303069801
-ModificationTime: 1367474710
+ModificationTime: 1367516013
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -108,7 +108,7 @@ BeginChars: 278 269
 StartChar: .notdef
 Encoding: 0 -1 0
 Width: 480
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -505,13 +505,6 @@ Flags: HW
 HStem: 755 676<253 430>
 VStem: 322 210<1246.1 1419.25>
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 UndoRedoHistory
 Layer: 1
 Undoes
@@ -1978,7 +1971,7 @@ StartChar: I
 Encoding: 44 73 44
 Width: 1075
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: -51 203<835.428 1156.44> -9 156<389.923 625 834 1080.85> 1202 230<739.013 919.919> 1262 217<1170 1464.19>
 LayerCount: 2
 UndoRedoHistory
@@ -2310,7 +2303,7 @@ StartChar: O
 Encoding: 50 79 50
 Width: 1361
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: -63 159<688.378 994.374> 1268 175<848.793 1281.45>
 VStem: 198 232<385.64 842.712> 1203 209<401.121 763>
 LayerCount: 2
@@ -3210,7 +3203,7 @@ StartChar: a
 Encoding: 68 97 68
 Width: 996
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: -25 155<351.262 551.863 879.156 1021.18> 577 151<454.001 672.296>
 VStem: 144 168<168.336 419.745> 700 254<443.262 624.5> 721 153<124.861 373.869> 786 168<567.125 665.618>
 LayerCount: 2
@@ -3281,7 +3274,7 @@ StartChar: b
 Encoding: 69 98 69
 Width: 917
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: -25 152<396.206 634.705> 592 136<538.402 754.068>
 VStem: 183 176<166.15 519.945> 789 171<281.357 555.861>
 LayerCount: 2
@@ -3319,17 +3312,10 @@ StartChar: c
 Encoding: 70 99 70
 Width: 675
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: -25 126<384.38 682.714> 608 120<432.952 685.176>
 VStem: 135 188<164.097 483.991>
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 UndoRedoHistory
 Layer: 1
 Undoes
@@ -3360,7 +3346,7 @@ StartChar: d
 Encoding: 71 100 71
 Width: 941
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: -25 151<319.15 489.669 815.194 958.664> 607 121<506.442 722.099>
 VStem: 122 180<139.462 401.656> 656 157<137.401 201.886>
 LayerCount: 2
@@ -3406,17 +3392,10 @@ StartChar: e
 Encoding: 72 101 72
 Width: 774
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: -25 137<375.824 662.091> 608 120<430.192 623.717>
 VStem: 630 147<459.221 600.589>
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Back
 SplineSet
 521 606 m 4
@@ -3467,17 +3446,10 @@ StartChar: f
 Encoding: 73 102 73
 Width: 584
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: 563 129<159.376 315 547 937.773> 1011 160<695.95 841.292>
 VStem: 357 190<692 819.289>
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 UndoRedoHistory
 Layer: 1
 Undoes
@@ -3516,17 +3488,10 @@ StartChar: g
 Encoding: 74 103 74
 Width: 938
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: 0 133<366.483 522.312> 608 120<411.44 615.833> 672 20G<762.5 808>
 VStem: 135 192<168.823 516.036>
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 UndoRedoHistory
 Layer: 1
 Undoes
@@ -3741,13 +3706,6 @@ HStem: -25 158<330.704 589.291> 1196 150<554.827 638.972>
 VStem: 95 186<181.559 496.204> 641 168<964.075 1195.14>
 LayerCount: 2
 UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
 Layer: 1
 Undoes
 EndUndoes
@@ -3781,17 +3739,10 @@ StartChar: m
 Encoding: 80 109 80
 Width: 1251
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: -25 145<1165.78 1342.32> 558 170<935.98 1130.5> 583 145<516.154 699>
 VStem: 83 308 973 189<122.427 338.394> 1051 203<346.885 550.003>
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 UndoRedoHistory
 Layer: 1
 Undoes
@@ -3837,17 +3788,10 @@ StartChar: n
 Encoding: 81 110 81
 Width: 854
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: -25 147<678 875.385> 591 136<513.188 708.5>
 VStem: 83 308 544 187<123.169 319.677> 637 187<349.689 588.407>
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Back
 SplineSet
 350.206054688 692 m 4
@@ -3907,17 +3851,10 @@ StartChar: o
 Encoding: 82 111 82
 Width: 880
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: -25 137<371.096 594.167> 588 140<425.269 654.263>
 VStem: 135 190<158.418 481.505> 694 189<230.865 547.227>
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 UndoRedoHistory
 Layer: 1
 Undoes
@@ -4108,13 +4045,6 @@ Flags: HW
 HStem: -25 158<377.04 632.791> 444 107<20.8026 343.498> 451 130<367.402 737.647> 1196 150<576.865 682.257>
 VStem: 136 179<194.023 549.186> 684 158<994.962 1194.33>
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Back
 SplineSet
 993.466796875 342.810546875 m 4
@@ -4189,13 +4119,6 @@ Flags: HW
 HStem: -25 154<340.523 532.637> -6 130<815.002 973.483> 698 20G<293.315 387.586 840.297 876.909>
 VStem: 135 190<143.491 405.445> 693 118<124.695 177.235>
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Back
 SplineSet
 821.982421875 170.260742188 m 4xf0
@@ -4368,7 +4291,7 @@ StartChar: x
 Encoding: 91 120 91
 Width: 723
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: -25 160<493.963 658.43> 696 20G<221.5 286 651 686>
 LayerCount: 2
 UndoRedoHistory
@@ -4416,13 +4339,6 @@ Flags: HW
 HStem: -25 217<220 387.151> 688 20G<338.5 385.5 824 871>
 VStem: 405 327<-359.317 -239.284>
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 UndoRedoHistory
 Layer: 1
 Undoes
@@ -9527,7 +9443,7 @@ EndChar
 StartChar: lc_xheight_stem
 Encoding: 268 -1 268
 Width: 921
-Flags: W
+Flags: HW
 VStem: 74 308
 LayerCount: 2
 Back
